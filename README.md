@@ -1,18 +1,7 @@
 # C++ 공부
 
-C++ 문법부터 메모리 관리, STL까지 공부한 내용을 기록합니다.
+C++ 연습 코드와 개념을 정리하는 저장소입니다.
 
-## 공부할 내용
+예제 설명에는 실행 방법, 헷갈렸던 부분, 수정한 이유를 적습니다.
 
-- 기본 문법, 입출력, 함수
-- 클래스, 생성자와 소멸자, 상속
-- 포인터와 참조, `const`
-- RAII, 스마트 포인터
-- `vector`, `string`, `unordered_map`, STL 알고리즘
-- 람다와 이동 의미론 기초
-
-## 기록
-
-- [1일차 계획](notes/day-01.md)
-
-코딩 테스트는 [Programmers](https://github.com/cucurubingbbong/Programmers)에 따로 올립니다.
+코딩 테스트 풀이는 [Programmers](https://github.com/cucurubingbbong/Programmers)에 따로 정리합니다.
