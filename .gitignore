@@ -1,0 +1,14 @@
+# C++ builds and editor files
+/build/
+/out/
+/bin/
+/obj/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.pch
+.vs/
+*.suo
+*.user
