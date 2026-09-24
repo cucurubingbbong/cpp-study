@@ -317,7 +317,7 @@ void Hello()
 
 ---
 
-## 선언
+## 전방선언
 
 ```cpp
 void Hello();
